@@ -344,6 +344,7 @@ InputManager:
     axis: 0
     joyNum: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - serializedVersion: 3
     m_Name: Rotate1
@@ -378,3 +379,5 @@ InputManager:
     axis: 0
     joyNum: 0
 >>>>>>> parent of 7474897... purge
+=======
+>>>>>>> parent of 3482e2e... Characters kunnen roteren
