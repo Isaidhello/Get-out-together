@@ -17,5 +17,6 @@ public class Player2_movement : MonoBehaviour
     void Update()
     {//movement
         transform.Translate(moveSpeed * Input.GetAxis("Horizontal2") * Time.deltaTime, 0f, moveSpeed * Input.GetAxis("Vertical2") * Time.deltaTime);
+        transform.Rotate(0,Input.GetAxis("Rotate2")*60*Time.deltaTime,0);
     }
 }
