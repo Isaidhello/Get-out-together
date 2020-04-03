@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: aa038827305614d0a99cc63a783886f2
+=======
+guid: e96d89dfd1c576a4e980b33fd691fd25
+>>>>>>> parent of 7474897... purge
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 namespace UnityEngine.TestTools
 {
     public interface IPostBuildCleanup
@@ -5,3 +6,12 @@ namespace UnityEngine.TestTools
         void Cleanup();
     }
 }
+=======
+namespace UnityEngine.TestTools
+{
+    public interface IPostBuildCleanup
+    {
+        void Cleanup();
+    }
+}
+>>>>>>> parent of 7474897... purge

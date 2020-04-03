@@ -6,13 +6,22 @@ InputManager:
   serializedVersion: 2
   m_Axes:
   - serializedVersion: 3
+<<<<<<< HEAD
     m_Name: Horizontal
+=======
+    m_Name: Horizontal1
+>>>>>>> parent of 7474897... purge
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: left
     positiveButton: right
+<<<<<<< HEAD
     altNegativeButton: a
     altPositiveButton: d
+=======
+    altNegativeButton: 
+    altPositiveButton: 
+>>>>>>> parent of 7474897... purge
     gravity: 3
     dead: 0.001
     sensitivity: 3
@@ -22,13 +31,22 @@ InputManager:
     axis: 0
     joyNum: 0
   - serializedVersion: 3
+<<<<<<< HEAD
     m_Name: Vertical
+=======
+    m_Name: Vertical1
+>>>>>>> parent of 7474897... purge
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: down
     positiveButton: up
+<<<<<<< HEAD
     altNegativeButton: s
     altPositiveButton: w
+=======
+    altNegativeButton: 
+    altPositiveButton: 
+>>>>>>> parent of 7474897... purge
     gravity: 3
     dead: 0.001
     sensitivity: 3
@@ -150,6 +168,7 @@ InputManager:
     axis: 2
     joyNum: 0
   - serializedVersion: 3
+<<<<<<< HEAD
     m_Name: Horizontal
     descriptiveName: 
     descriptiveNegativeName: 
@@ -179,6 +198,37 @@ InputManager:
     snap: 0
     invert: 1
     type: 2
+=======
+    m_Name: Horizontal2
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: a
+    positiveButton: d
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 3
+    dead: 0.001
+    sensitivity: 3
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: Vertical2
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: w
+    positiveButton: s
+    altNegativeButton: 
+    altPositiveButton: 
+    gravity: 3
+    dead: 0.001
+    sensitivity: 3
+    snap: 0
+    invert: 1
+    type: 0
+>>>>>>> parent of 7474897... purge
     axis: 1
     joyNum: 0
   - serializedVersion: 3
@@ -293,3 +343,38 @@ InputManager:
     type: 0
     axis: 0
     joyNum: 0
+<<<<<<< HEAD
+=======
+  - serializedVersion: 3
+    m_Name: Rotate1
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: .
+    positiveButton: /
+    altNegativeButton: 
+    altPositiveButton: joystick button 1
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: Rotate2
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: q
+    positiveButton: e
+    altNegativeButton: 
+    altPositiveButton: joystick button 1
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+>>>>>>> parent of 7474897... purge
